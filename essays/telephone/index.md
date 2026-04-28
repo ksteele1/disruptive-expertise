@@ -107,8 +107,7 @@ Wikipedia itself was not static. Its reliability improved substantially over the
   image-position="left"
   image-width="44%"
   caption="Wikipedia's growth from a few dozen articles to more than sixty million across hundreds of languages represents one of the most remarkable feats of collective knowledge production in history."
-  text=aftermath_text
-%}
+  text=aftermath_text%}
 
 The journalist Nicholson Baker, writing in the *New York Review of Books* in 2008, captured something the critics missed: Wikipedia was not finished. It was a living document—not a cathedral built once and maintained, but a garden that grew and changed and healed itself. That was strange and unprecedented. But it was not the same as being worthless.
 
