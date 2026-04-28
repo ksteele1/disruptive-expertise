@@ -1,7 +1,7 @@
 
 title: New Title
 layout: scrollstory
-header-image: 
+header-image: "images/Telephone invention sketch.png"
 thumbnail:
 summary: When the telephone was patented in 1876, it didn't just show a new form of communication. It displaced a whole field.
 header-title: The Telegraph to Telephone Pipeline
