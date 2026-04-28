@@ -18,6 +18,13 @@ The invention of the telephone was the culmination of decades of research by mul
   The telephone quickly evolved from a scientific novelty into essential infrastructure: the Bell Telephone Company was founded in 1877, with about 1,300 devices in use within months; usage expanded rapidly to tens of thousands of telephones by 1880 and over 100,000 soon after; and by 1885, the creation of AT&T marked the development of long-distance networks. 
   
   Global recognition of the telephone wasn't just a technological innovation, but a disruption because it took away from telegraph people idk. 
+  {% include images/figure-wrap.html
+  image-path="images/Telephone invention sketch.png"
+  image-position="right"
+  image-width="46%"
+  caption="Bell's sketchbook of the telephone's first invention."
+  text=britannica_text
+%}
 
 
 ## The Telephone as a Disruptor, not an Invention
