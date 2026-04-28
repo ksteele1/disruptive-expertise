@@ -1,9 +1,10 @@
-<img width="2288" height="1132" alt="image" src="https://github.com/user-attachments/assets/95b5cfca-1a8a-462e-a424-fca0b7e5d7e8" />---
+
 title: New Title
 layout: scrollstory
 header-image: <img width="2288" height="1132" alt="image" src="https://github.com/user-attachments/assets/c6d61d2a-fc9a-481c-84ee-82ef969dc97b" />
 
-thumbnail: images/jimmy-wales-imac.jpg
+thumbnail: <img width="2288" height="1132" alt="image" src="https://github.com/user-attachments/assets/cb89379d-7777-482a-9c5a-d15fbd35153d" />
+
 summary: When the telephone was patented in 1876, it didn't just show a new form of communication. It displaced a whole field.
 header-title: The Telegraph to Telephone Pipeline
 header-subtitle: How an Invention Became a Surpreme Court Battle
