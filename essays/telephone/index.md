@@ -1,11 +1,11 @@
-
-title: New Title
+---
+title: "Speaking of the Telephone..."
 layout: scrollstory
-header-image: "images/bells-phone.png"
-thumbnail:
+header-image: images/bells phone.webp
+thumbnail: images/jimmy-wales-imac.jpg
 summary: When the telephone was patented in 1876, it didn't just show a new form of communication. It displaced a whole field.
 header-title: The Telegraph to Telephone Pipeline
-header-subtitle: How an Invention Became a Surpreme Court Battle
+header-subtitle: How Accessible Long-Distance Communication Displaced Expertise
 header-position: center
 ---
 
