@@ -29,42 +29,55 @@ The invention of the telephone was the culmination of decades of research by mul
 
 ## The Telephone as a Disruptor, not an Invention
 
-***KYLA we want to mention the first words believed to be spoken over the telephone, as recorded in Bell's journal on the 10th of March 1876 were "Mr. Watson - Come here - I want to see you."
+Though the telephone is often imagined to be a revolutionary invention (for which it is, that I will not argue); it's real historical impact comes from the disruption it created. Bell did not simply invent a new machine, he introduced a system that changed long-distance communication (LDC) for everyone. Suddenly, LDC became accessible to a whole new world of participants.
+
+Before the telephone, communication technologies required specialized knowledge from the assistance of a third-party. 
+
+The telephone distrupted this model by allowing everyday individuals to directly transmit their own voices across any distance. In doing so, it removed layers of technical mediation that had previously defined communication systems.
+
+ Its significance was not just in making communication faster between people, but in changing the relationship between ordinary people and communication technology. The telephone made a process that was preiously exclusive process accessible broadly. Thanks to Bell, power was no longer with telegraphic experts, and in the hands of everyday users.
+ 
+ * KYLA we want to mention the first words believed to be spoken over the telephone, as recorded in Bell's journal on the 10th of March 1876 were "Mr. Watson - Come here - I want to see you."
 
 
 ## The Telegraph Elite: Masters of Speed and Code
 
-Discuss telegraph expertise before disruption
+Before the rise of the telephone, the telegraph was the dominant form of long-distance communication, and telegraph operators were highly specialized professionals. Their work depended on mastering Morse code, transmitting messages quickly and accurately through electrical signals. This expertise required training, precision, and speed, making telegraph operators valuable members of an emerging technological workforce. Because ordinary people could not independently use the telegraph, operators served as essential intermediaries between sender and receiver. They translated written language into code, transmitted the message, and decoded it on the receiving end. This created a clear hierarchy in communication, where technical knowledge determined access. Telegraph operators did not just facilitate communication—they controlled it.
 
 ## A Simpler System.
 
-Discuss moment of disruption.
-
+The telephone introduced a dramatically simpler communication system by eliminating the need for coded transmission altogether. Instead of relying on Morse code or trained intermediaries, users could simply speak into the device and be heard directly by another person. This was the central moment of disruption: communication was no longer dependent on specialized knowledge. The complexity that once justified the role of telegraph experts was replaced by something universally familiar—the human voice. The telephone lowered the barriers to entry so significantly that participation in long-distance communication expanded almost immediately. Anyone capable of speaking could use the system, making communication more intuitive and immediate than ever before.
 
 ## When Expertise No Longer Matters
 
-Discuss impact on workers and displacement of telepgraph operators. 
-
+As the telephone spread, the specialized skills of telegraph operators became less essential. The value of knowing Morse code or managing telegraph systems declined as direct voice communication became more practical and widespread. This is an example of technological displacement, where a new innovation makes an existing form of labor less relevant. Telegraph operators had built careers on a skill set that suddenly mattered less in a new communication landscape. The telephone did not eliminate communication jobs entirely, but it changed what expertise was needed. A system once dependent on highly trained specialists was replaced with one that prioritized accessibility over technical mastery.
 
 ## Who Wins When Skill Barriers Disappear?
 Discuss broaders implications of disrupted expertise. What is an expert? 
 
+The decline of telegraph expertise also created broader access to communication. By removing technical barriers, the telephone democratized long-distance connection and redistributed power away from a small professional class. Communication became more personal, immediate, and widely available. This raises a larger question about expertise itself: if a task can be simplified enough for anyone to perform it, what happens to the people whose value came from specialized knowledge? In the case of the telephone, ordinary users benefited from convenience and accessibility, while telegraph experts faced the erosion of their professional advantage. Technological progress often creates winners and losers simultaneously.
+
 ## What Critics Got Right
+
+Not all criticism of the telephone was misplaced. The telegraph system, while more complicated, offered precision, standardization, and efficiency that early telephones did not always match. Telegraph operators were trained to communicate clearly through a consistent system, while early voice transmission could be inconsistent or unclear. By removing trained intermediaries, the telephone also removed a layer of control and structure from communication. Critics may have feared not only job displacement but also the loss of professional standards that came with expert mediation. Although the telephone ultimately succeeded, the concerns surrounding it reflected legitimate anxieties about technological change.
 
 ## The New Normal: Communication without Intermediaries
 
+Over time, the telephone normalized direct communication without the need for specialized intermediaries. What once required technical systems, trained workers, and coded language became as simple as speaking. This shift changed both personal and professional life, making immediate communication across long distances an expected part of everyday reality. The telephone transformed communication from a process managed by experts into a universal activity available to the public. This was not just a technological improvement—it was a restructuring of social interaction and information exchange.
+
 ## The Deeper Question
+
+The invention of the telephone raises a deeper question about the nature of expertise: what happens when technology removes the need for specialized skill? What is gained and lost when technology removed the need for this expertise? The telephone demonstrates that expertise is often tied to the limitations of existing systems. When those systems change, the skills once considered essential may quickly lose value. At the same time, technological simplification can expand access and participation in meaningful ways. The tension between accessibility and expertise is not unique to the telephone but is a recurring feature of technological change.
 
 ## Connection to AI
 
-IDK IDK
-
+The telephone’s disruption of telegraph expertise offers a strong parallel to modern artificial intelligence. Just as the telephone reduced reliance on Morse code and telegraph operators, AI reduces reliance on certain forms of specialized knowledge by automating or simplifying complex tasks. In both cases, barriers to entry are lowered, access expands, and established expertise is challenged. The concerns surrounding AI today—job displacement, changing definitions of expertise, and the democratization of formerly specialized work—mirror the disruptions introduced by the telephone. The history of the telephone suggests that technological innovation is rarely just about invention; it is about redefining who gets to participate.
 
 ## How I Used AI for This Essay
 
-I HAVE NOT EDITED ANY OF THIS I WANNA HAVE THIS FOR REFERENCE. This essay was researched and written with the assistance of Claude, an AI assistant made by Anthropic.
+This essay was researched with the assistance of NotebookLM, a free AI research tool from Google that is powered by Gemini 2.0. I also used the the assistance of ChatGPT, developed by OpenAI and powered by pre-trained generative models. 
 
-AI was useful for: generating an initial outline, suggesting relevant historical figures and events, and helping draft transitions between sections. I used it as a starting point—a well-read research assistant who could quickly surface names and dates and connections.
+AI was useful for: generating an initial outline, sorting through hundreds of primary and secondary sources, and helping structure my first draft. I used it as a research assistant who can quickly sort thorugh information to create connections. 
 
 AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or—in two cases—to not exist in the form described. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
 
