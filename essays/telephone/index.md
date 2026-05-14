@@ -38,12 +38,6 @@ Before the telephone, communication technologies required specialized knowledge 
 
 Before the rise of the telephone, the telegraph was the dominant form of long-distance communication, and telegraph operators were highly specialized professionals. Their work depended on mastering Morse code, transmitting messages quickly and accurately through electrical signals. This expertise required training, precision, and speed, making telegraph operators valuable members of an emerging technological workforce. Because ordinary people could not independently use the telegraph, operators served as essential intermediaries between sender and receiver. They translated written language into code, transmitted the message, and decoded it on the receiving end. This created a clear hierarchy in communication, where technical knowledge determined access. Telegraph operators did not just facilitate communication—they controlled it.
 
-{% include scrollybox/bg.html
-  image-path="images/telegraph elite.jpg"
-  above-box-space="90vh"
-  below-box-space="80vh"
-  box-align="right"
-  box-content="}
 
 ## A Simpler System.
 
