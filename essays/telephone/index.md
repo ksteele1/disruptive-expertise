@@ -42,7 +42,7 @@ Before the rise of the telephone, the telegraph was the dominant form of long-di
   image-path="images/telegraph elite.jpg"
   above-box-space="90vh"
   below-box-space="80vh"
-  box-align="right"
+  box-align="center"
   box-content="
 ## A Simpler System.
 
