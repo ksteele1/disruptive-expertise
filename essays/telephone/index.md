@@ -11,9 +11,7 @@ header-position: center
 
 # The Traveling Human Voice
 
-The invention of the telephone was the culmination of decades of research by multiple inventors. Alexander Bell is most widely credited with its creation, securing a patent for the product in 1876 with a product that demonstrated a practical, repeatable system for commercial use.
-
- Bell’s own progress came through a rapid sequence of breakthroughs, beginning on June 2, 1875, when he and Thomas Watson discovered that a wave-like current could reproduce sound vibrations, followed by the patent application filed on February 14, 1876, the granting of U.S. Patent No. 174,465 on March 7, and the first clear speech transmission on March 10, when Bell famously called to Watson.
+The invention of the telephone was the culmination of decades of research by multiple inventors. Alexander Bell is most widely credited with its creation, securing a patent for the product in 1876 with a product that demonstrated a practical, repeatable system for commercial use. Bell’s own progress came through a rapid sequence of breakthroughs, beginning on June 2nd, 1875, when he and Thomas Watson discovered that a wave-like current could reproduce sound vibrations. The two filed for a patent application on February 14th, 1876, and the first clear speech transmission was documented on March 10th that year, when Bell famously called to Watson.
  
   The telephone quickly evolved from a scientific novelty into essential infrastructure: the Bell Telephone Company was founded in 1877, with about 1,300 devices in use within months; usage expanded rapidly to tens of thousands of telephones by 1880 and over 100,000 soon after; and by 1885, the creation of AT&T marked the development of long-distance networks. 
   
@@ -31,13 +29,9 @@ The invention of the telephone was the culmination of decades of research by mul
 
 Though the telephone is often imagined to be a revolutionary invention (for which it is, that I will not argue); it's real historical impact comes from the disruption it created. Bell did not simply invent a new machine, he introduced a system that changed long-distance communication (LDC) for everyone. Suddenly, LDC became accessible to a whole new world of participants.
 
-Before the telephone, communication technologies required specialized knowledge from the assistance of a third-party. 
+Before the telephone, communication technologies required specialized knowledge from the assistance of a third-party. The telephone distrupted this model by allowing everyday individuals to directly transmit their own voices across any distance. In doing so, it removed layers of technical mediation that had previously defined communication systems Its significance was not just in making communication faster between people, but in changing the relationship between ordinary people and communication technology. The telephone made a process that was preiously exclusive process accessible broadly. Thanks to Bell, power was no longer with telegraphic experts, and in the hands of everyday users.
 
-The telephone distrupted this model by allowing everyday individuals to directly transmit their own voices across any distance. In doing so, it removed layers of technical mediation that had previously defined communication systems.
-
- Its significance was not just in making communication faster between people, but in changing the relationship between ordinary people and communication technology. The telephone made a process that was preiously exclusive process accessible broadly. Thanks to Bell, power was no longer with telegraphic experts, and in the hands of everyday users.
- 
- * KYLA we want to mention the first words believed to be spoken over the telephone, as recorded in Bell's journal on the 10th of March 1876 were "Mr. Watson - Come here - I want to see you."
+{% include typography/pullquote.html text="\"Mr. Watson - Come here - I want to see you.\" — Alexander Bell, Telephone founder" %}
 
 
 ## The Telegraph Elite: Masters of Speed and Code
@@ -53,8 +47,6 @@ The telephone introduced a dramatically simpler communication system by eliminat
 As the telephone spread, the specialized skills of telegraph operators became less essential. The value of knowing Morse code or managing telegraph systems declined as direct voice communication became more practical and widespread. This is an example of technological displacement, where a new innovation makes an existing form of labor less relevant. Telegraph operators had built careers on a skill set that suddenly mattered less in a new communication landscape. The telephone did not eliminate communication jobs entirely, but it changed what expertise was needed. A system once dependent on highly trained specialists was replaced with one that prioritized accessibility over technical mastery.
 
 ## Who Wins When Skill Barriers Disappear?
-Discuss broaders implications of disrupted expertise. What is an expert? 
-
 The decline of telegraph expertise also created broader access to communication. By removing technical barriers, the telephone democratized long-distance connection and redistributed power away from a small professional class. Communication became more personal, immediate, and widely available. This raises a larger question about expertise itself: if a task can be simplified enough for anyone to perform it, what happens to the people whose value came from specialized knowledge? In the case of the telephone, ordinary users benefited from convenience and accessibility, while telegraph experts faced the erosion of their professional advantage. Technological progress often creates winners and losers simultaneously.
 
 ## What Critics Got Right
