@@ -19,7 +19,7 @@ The invention of the telephone was the culmination of decades of research by mul
   {% include images/figure-wrap.html
   image-path="images/Telephone invention sketch.png"
   image-position="right"
-  image-width="46%"
+  image-width="52%"
   caption="Bell's sketchbook of the telephone's first invention."
   text=britannica_text
 %}
@@ -38,10 +38,17 @@ Before the telephone, communication technologies required specialized knowledge 
 
 Before the rise of the telephone, the telegraph was the dominant form of long-distance communication, and telegraph operators were highly specialized professionals. Their work depended on mastering Morse code, transmitting messages quickly and accurately through electrical signals. This expertise required training, precision, and speed, making telegraph operators valuable members of an emerging technological workforce. Because ordinary people could not independently use the telegraph, operators served as essential intermediaries between sender and receiver. They translated written language into code, transmitted the message, and decoded it on the receiving end. This created a clear hierarchy in communication, where technical knowledge determined access. Telegraph operators did not just facilitate communication—they controlled it.
 
-
+{% include scrollybox/bg.html
+  image-path="images/market-view.jpg"
+  above-box-space="90vh"
+  below-box-space="80vh"
+  box-align="right"
+  box-content="
 ## A Simpler System.
 
 The telephone introduced a dramatically simpler communication system by eliminating the need for coded transmission altogether. Instead of relying on Morse code or trained intermediaries, users could simply speak into the device and be heard directly by another person. This was the central moment of disruption: communication was no longer dependent on specialized knowledge. The complexity that once justified the role of telegraph experts was replaced by something universally familiar—the human voice. The telephone lowered the barriers to entry so significantly that participation in long-distance communication expanded almost immediately. Anyone capable of speaking could use the system, making communication more intuitive and immediate than ever before.
+"
+%}
 
 ## When Expertise No Longer Matters
 
