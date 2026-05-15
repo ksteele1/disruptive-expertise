@@ -55,7 +55,13 @@ The telephone introduced a dramatically simpler communication system by eliminat
 
 As the telephone became commonspread throughout the world, the specialized skills of *telegraph operators* became less needed. The value of knowing Morse code or understanding telegraph systems declined as direct voice communication became more widespread. This is an example of technological displacement, where a new innovation makes an existing form of labor less relevant. *Telegraph operators* had built careers on a skill set that suddenly mattered less in a new communication landscape. The telephone did not eliminate communication jobs entirely, but it changed what expertise was needed. A system once dependent on highly trained specialists was replaced with one that prioritized accessibility over technical mastery.
 
-
+{% include images/figure-wrap.html
+  image-path="images/early telephone.png"
+  image-position="right"
+  image-width="52%"
+  caption="Early telephone station."
+  text=britannica_text
+%}
 
 ## Who Wins When Skill Barriers Disappear?
 The decline of *telegraph expertise* also created broader access to communication. By removing technical barriers, the telephone democratized long-distance connection and redistributed power away from a small professional class. Communication became more personal, immediate, and widely available. This raises a larger question about expertise itself: if a task can be simplified enough for anyone to perform it, what happens to the people whose value came from specialized knowledge? In the case of the telephone, ordinary users benefited from convenience and accessibility, while *telegraph experts* faced the erosion of their professional advantage. Technological progress often creates winners and losers simultaneously.
