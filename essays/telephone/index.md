@@ -11,11 +11,12 @@ header-position: center
 
 # The Traveling Human Voice
 
-The invention of the telephone was the culmination of decades of research by multiple inventors. *Alexander Bell* is most widely credited with its creation, securing a patent for the product in 1876 with a product that demonstrated a practical, repeatable system for commercial use. According to Volume I of *Telephone Communication Systems* Bell’s own progress came through a rapid sequence of breakthroughs, beginning on June 2nd, 1875, when he and Thomas Watson discovered that a wave-like current could reproduce sound vibrations. The two filed for a patent application on February 14th, 1876, and the first clear speech transmission was documented on March 10th that year, when Bell famously called to Watson (Garrett, 1970).
+The invention of the telephone was the culmination of decades of research by multiple inventors. *Alexander Bell* is most widely credited with its creation, securing a patent for the product in 1876 with a product that demonstrated a practical, repeatable system for commercial use. According to Volume I of *Telephone Communication Systems* Bell’s own progress came through a rapid sequence of breakthroughs, beginning on June 2nd, 1875, when he and Thomas Watson discovered that a wave-like current could reproduce sound vibrations. The two filed for a patent application on February 14th, 1876, and the first clear speech transmission was documented on March 10th that year, when Bell famously called to Watson.
  
   The telephone quickly evolved from a scientific novelty into essential infrastructure: the Bell Telephone Company was founded in 1877, with about 1,300 devices in use within months; usage expanded rapidly to tens of thousands of telephones by 1880 and over 100,000 soon after; and by 1885, the creation of AT&T marked the development of long-distance networks. 
   
-  Global recognition of the telephone wasn't just a technological innovation, but a disruption because it took away from *telegraph* people idk. 
+  Global recognition of the telephone wasn't just a technological innovation, but a disruption because it took away from from expertise of existing telegraph operators.
+
   {% include images/figure-wrap.html
   image-path="images/Telephone invention sketch.png"
   image-position="right"
@@ -36,7 +37,7 @@ Before the telephone, communication technologies required specialized knowledge 
 
 ## The Telegraph Elite: Masters of Speed and Code
 
-Before the rise of the telephone, the telegraph was the dominant form of long-distance communication, and telegraph operators were highly specialized professionals. Their work depended on mastering Morse code, transmitting messages quickly and accurately through electrical signals. This expertise required training, precision, and speed, making *telegraph operators* valuable members of an emerging technological workforce. Because ordinary people could not independently use the telegraph, operators served as essential intermediaries between sender and receiver. They translated written language into code, transmitted the message, and decoded it on the receiving end. This created a clear hierarchy in communication, where technical knowledge determined access. *Telegraph operators* did not just facilitate communication, they controlled it.
+Before the rise of the telephone, the telegraph was the go-to system for long-distance communication. *Wikipedia* highlights the appeal of telegrams at the time; providing a fast and simplistic wat to deliver messages faster than traditional mail. They required the assistance of telegraph operators, who were highly specialized professionals in mastering Morse code to transmit messages quickly and accurately through electrical signals. This expertise required training, precision, and speed, making *telegraph operators* valuable members of an emerging technological workforce. They translated written language into code, transmitted the message, and decoded it on the receiving end. This created a clear hierarchy in communication, where technical knowledge determined access. *Telegraph operators* did not just facilitate communication, they controlled it.
 
 {% include scrollybox/bg.html
   image-path="images/telegraph elite.jpg"
@@ -87,5 +88,12 @@ The deeper limitation: AI flattened the historiographic debates. When I asked it
 
 ## Bibliography
 
-J.E. Garrett. "Telephone Communication Systems: Volume 1." *Graduate Engineering and Information Systems Education*, 1970.
+J.E. Garrett. "Telephone Communication Systems: Volume 1." *Graduate Engineering and Information Systems Education*, Revised 1970.
 
+Wikipedia. "Telegraphy in the United States.", *Wikipedia, the free encyclopedia*. Modified December 15, 2025.
+
+Wikipedia. "Elecrical Telegraph." *Wikipedia the free encyclopedia*. Modified April 6, 2026.
+
+Wikipedia. "Invention of the Telephone." *Wikipedia the free encyclopedia*. Modified April 15, 2026.
+
+Historic England. "The Story Behind the World's First 
