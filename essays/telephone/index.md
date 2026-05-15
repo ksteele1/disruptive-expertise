@@ -96,4 +96,7 @@ Wikipedia. "Elecrical Telegraph." *Wikipedia the free encyclopedia*. Modified Ap
 
 Wikipedia. "Invention of the Telephone." *Wikipedia the free encyclopedia*. Modified April 15, 2026.
 
-Historic England. "The Story Behind the World's First 
+Historic England. "The Story Behind the World's First Telephone." *The Historic England Blog*. July 29, 2022.
+
+Bill Kovarik. "Ch 7 Telegraph & telephone". *Revolutions in Communication | Media History from Gutenberg to the Digital Age*. Revised 2025. 
+
