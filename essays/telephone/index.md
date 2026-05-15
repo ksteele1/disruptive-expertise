@@ -56,7 +56,7 @@ The telephone introduced a dramatically simpler communication system by eliminat
 As the telephone became commonspread throughout the world, the specialized skills of *telegraph operators* became less needed. The value of knowing Morse code or understanding telegraph systems declined as direct voice communication became more widespread. This is an example of technological displacement, where a new innovation makes an existing form of labor less relevant. *Telegraph operators* had built careers on a skill set that suddenly mattered less in a new communication landscape. The telephone did not eliminate communication jobs entirely, but it changed what expertise was needed. A system once dependent on highly trained specialists was replaced with one that prioritized accessibility over technical mastery.
 
 {% include images/jumbotron.html
-  image-path="images/early telephone. avif"
+  image-path="images/early telephone.avif"
   height="85vh"
   background-position="center top"
   box-align="left"
@@ -80,17 +80,17 @@ Not all criticism of the telephone was misplaced. The telegraph system, while mo
   box-content="
 ## The New Normal: Communication without Intermediaries
 
-Over time, the telephone normalized direct communication without the need for specialized intermediaries. What once required technical systems, trained workers, and coded language became as simple as speaking. This shift changed both personal and professional life, making immediate communication across long distances an expected part of everyday reality. The telephone transformed communication from a process managed by experts into a universal activity available to the public. This was not just a technological improvement—it was a restructuring of social interaction and information exchange.
+Over time, the telephone normalized direct communication without the need for specialized intermediaries. What once required technical systems, trained workers, and decoded language became as simple as speaking. This shift changed both personal and professional life, making immediate communication across long distances an expected part of everyday reality. The telephone transformed communication from a process managed by experts into a universal activity available to the public. This was not just a technological improvement—it was a restructuring of social interaction and information exchange.
 "
 %}
 
 ## The Deeper Question
 
-The invention of the telephone raises a deeper question about the nature of expertise: what happens when technology removes the need for specialized skill? What is gained and lost when technology removed the need for this expertise? The telephone demonstrates that expertise is often tied to the limitations of existing systems. When those systems change, the skills once considered essential may quickly lose value. At the same time, technological simplification can expand access and participation in meaningful ways. The tension between accessibility and expertise is not unique to the telephone but is a recurring feature of technological change.
+The invention of the telephone raises a deeper question about the nature of expertise: what happens when technology removes the need for specialized skills? What is gained and lost when technology removed the need for this expertise? The telephone demonstrates that expertise is often tied to the limitations of existing systems. When those systems change, the skills once considered essential may quickly lose value. At the same time, technological simplification can expand access and participation in meaningful ways. The tension between accessibility and expertise is not unique to the telephone but is a recurring feature of technological change.
 
 ## Connection to AI
 
-The telephone’s disruption of telegraph expertise offers a strong parallel to modern artificial intelligence. Just as the telephone reduced reliance on Morse code and *telegraph operator*s*, AI reduces reliance on certain forms of specialized knowledge by automating or simplifying complex tasks. In both cases, barriers to entry are lowered, access expands, and established expertise is challenged. The concerns surrounding AI today—job displacement, changing definitions of expertise, and the democratization of formerly specialized work—mirror the disruptions introduced by the telephone. The history of the telephone suggests that technological innovation is rarely just about invention; it is about redefining who gets to participate.
+The telephone’s disruption of telegraph expertise offers a strong parallel to modern artificial intelligence. Just as the telephone reduced reliance on Morse code and *telegraph operators*, AI reduces reliance on certain forms of specialized knowledge by automating or simplifying complex tasks. In both cases, barriers to entry are lowered, access expands, and established expertise is challenged. The concerns surrounding AI today—job displacement, changing definitions of expertise, and the democratization of formerly specialized work—mirror the disruptions introduced by the telephone. The history of the telephone suggests that technological innovation is rarely just about invention; it is about redefining who gets to participate.
 
 ## How I Used AI for This Essay
 
@@ -98,9 +98,9 @@ This essay was researched with the assistance of NotebookLM, a free AI research 
 
 AI was useful for: generating an initial outline, sorting through hundreds of primary and secondary sources, and helping structure my first draft. I used it as a research assistant who can quickly sort thorugh information to create connections. 
 
-AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or—in two cases—to not exist in the form described. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
+AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified by myself checking the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or be irrelevent to the essay topic at hand. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
 
-The deeper limitation: AI flattened the historiographic debates. When I asked it to explain "the significance of Wikipedia," it gave a confident, balanced-sounding answer that missed exactly the tensions and contradictions that make the history interesting. Historians argue. They disagree. They revise. AI tends to synthesize and harmonize. The most important intellectual work in this essay—deciding what the evidence actually *means*—was mine to do.
+The deeper limitation: AI limited the field of opposing secondary sources and opinions. Also, when asked to create Chigaco style citcations from my sources, it did this incorrectly. From my experience, AI sources cannot create reliable bibliographies. It was important to review the information and arguments NotebookLM and ChatGPT suggested to me, as some were bad. 
 
 ---
 
