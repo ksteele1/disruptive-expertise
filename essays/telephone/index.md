@@ -60,7 +60,7 @@ As the telephone became commonspread throughout the world, the specialized skill
   height="85vh"
   background-position="center top"
   box-align="left"
-  text="Not everyone was thrilled with these developments. According to Swedish Telecommunications Company *Ericsson* the telephone was often viewed with skepticism. Many people could not believe that an electical cable could actually allow people to communicate long-distance. The telephone made people afraid for a variety of different reasons; they were afraid the lies would break and spill out information. Others were scared of the towers attracting energy from thunder or otherworldly spirits."
+  text="Not everyone was thrilled with these developments. According to Swedish Telecommunications Company *Ericsson* the telephone was often viewed with skepticism. Many people could not believe that an electical cable could actually allow people to communicate long-distance. The telephone made people afraid for a variety of different reasons; they were afraid the lies would break and spill out information. Others were scared of the towers attracting energy from thunder or otherworldly spirits.  "
 %}
 
 ## Who Wins When Skill Barriers Disappear?
@@ -72,9 +72,17 @@ Not all criticism of the telephone was misplaced. The telegraph system, while mo
 
 {% include typography/pullquote.html text="\"Mr. Watson - Come here - I want to see you.\" — Alexander Bell, Telephone founder" %}
 
+{% include scrollybox/bg.html
+  image-path="images/mexico telephone wire.avif"
+  above-box-space="90vh"
+  below-box-space="80vh"
+  box-align="center"
+  box-content="
 ## The New Normal: Communication without Intermediaries
 
 Over time, the telephone normalized direct communication without the need for specialized intermediaries. What once required technical systems, trained workers, and coded language became as simple as speaking. This shift changed both personal and professional life, making immediate communication across long distances an expected part of everyday reality. The telephone transformed communication from a process managed by experts into a universal activity available to the public. This was not just a technological improvement—it was a restructuring of social interaction and information exchange.
+"
+%}
 
 ## The Deeper Question
 
