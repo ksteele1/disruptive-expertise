@@ -108,3 +108,5 @@ Historic England. "The Story Behind the World's First Telephone." *The Historic 
 
 Bill Kovarik. "Ch 7 Telegraph & telephone". *Revolutions in Communication | Media History from Gutenberg to the Digital Age*. Revised 2025. 
 
+Stockholm Centre for Business History. "The telephone is the instrument of the devil". *Telefonaktiebolaget LM Ericsson and Centre for Business History*.
+
