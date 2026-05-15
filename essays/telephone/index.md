@@ -60,7 +60,7 @@ As the telephone became commonspread throughout the world, the specialized skill
   height="85vh"
   background-position="center top"
   box-align="left"
-  text="Not everyone was thrilled with these developments. According to Swedish Telecommunications Company *Ericsson* the telephone was often viewed with skepticism. People were fearful of the possibility that wires would fall and "information would spill out", or to touch the device for fear of electrical shock. People's greatest fear was it's ability to attract energies - static and spirtual!"
+  text="Not everyone was thrilled with these developments. According to Swedish Telecommunications Company *Ericsson* the telephone was often viewed with skepticism."
 %}
 
 ## Who Wins When Skill Barriers Disappear?
