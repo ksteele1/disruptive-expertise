@@ -70,7 +70,7 @@ The decline of *telegraph expertise* and rise of early telephones created broade
 
 Not all criticism of the telephone was misplaced. The telegraph system, while more complicated, offered precision, standardization, and efficiency that early telephones did not always match. *Telegraph operators* were trained to communicate clearly through a consistent system, while early voice transmission could be inconsistent or unclear. By removing trained intermediaries, the telephone also removed a layer of control and structure from communication. Critics may have feared not only job displacement but also the loss of professional standards that came with expert mediation. Although the telephone ultimately succeeded, the concerns surrounding it reflected legitimate anxieties about technological change.
 
-{% include typography/pullquote.html text="\"Mr. Watson - Come here - I want to see you.\" — Alexander Bell, Telephone founder" %}
+{% include typography/pullquote.html text="\"The telephone is the greatest nuisance among conveniences, the greatest convenience among nuisances.\" — Robert Staughton Lynd." %}
 
 {% include scrollybox/bg.html
   image-path="images/mexico telephone wire.avif"
