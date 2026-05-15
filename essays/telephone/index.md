@@ -56,7 +56,7 @@ The telephone introduced a dramatically simpler communication system by eliminat
 As the telephone became commonspread throughout the world, the specialized skills of *telegraph operators* became less needed. The value of knowing Morse code or understanding telegraph systems declined as direct voice communication became more widespread. This is an example of technological displacement, where a new innovation makes an existing form of labor less relevant. *Telegraph operators* had built careers on a skill set that suddenly mattered less in a new communication landscape. The telephone did not eliminate communication jobs entirely, but it changed what expertise was needed. A system once dependent on highly trained specialists was replaced with one that prioritized accessibility over technical mastery.
 
 {% include images/jumbotron.html
-  image-path="images/early telephone.avif"
+  image-path="images/early telephone. avif"
   height="85vh"
   background-position="center top"
   box-align="left"
