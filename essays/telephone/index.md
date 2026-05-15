@@ -64,11 +64,13 @@ As the telephone became commonspread throughout the world, the specialized skill
 %}
 
 ## Who Wins When Skill Barriers Disappear?
-The decline of *telegraph expertise* also created broader access to communication. By removing technical barriers, the telephone democratized long-distance connection and redistributed power away from a small professional class. Communication became more personal, immediate, and widely available. This raises a larger question about expertise itself: if a task can be simplified enough for anyone to perform it, what happens to the people whose value came from specialized knowledge? In the case of the telephone, ordinary users benefited from convenience and accessibility, while *telegraph experts* faced the erosion of their professional advantage. Technological progress often creates winners and losers simultaneously.
+The decline of *telegraph expertise* and rise of early telephones created broader access to communication. By removing technical barriers, the telephone democratized long-distance connection and redistributed power away from a small professional class. Communication became more personal, immediate, and widely available. This raises a larger question about expertise itself: if a task can be simplified enough for anyone to perform it, what happens to the people whose value came from specialized knowledge? In the case of the telephone, ordinary users benefited from convenience and accessibility, while *telegraph experts* faced the erosion of their professional advantage. Technological progress often creates winners and losers simultaneously.
 
 ## What Critics Got Right
 
 Not all criticism of the telephone was misplaced. The telegraph system, while more complicated, offered precision, standardization, and efficiency that early telephones did not always match. *Telegraph operators* were trained to communicate clearly through a consistent system, while early voice transmission could be inconsistent or unclear. By removing trained intermediaries, the telephone also removed a layer of control and structure from communication. Critics may have feared not only job displacement but also the loss of professional standards that came with expert mediation. Although the telephone ultimately succeeded, the concerns surrounding it reflected legitimate anxieties about technological change.
+
+{% include typography/pullquote.html text="\"Mr. Watson - Come here - I want to see you.\" — Alexander Bell, Telephone founder" %}
 
 ## The New Normal: Communication without Intermediaries
 
