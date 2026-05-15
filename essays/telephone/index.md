@@ -11,7 +11,7 @@ header-position: center
 
 # The Traveling Human Voice
 
-The invention of the telephone was the culmination of decades of research by multiple inventors. *Alexander Bell* is most widely credited with its creation, securing a patent for the product in 1876 with a product that demonstrated a practical, repeatable system for commercial use. Bell’s own progress came through a rapid sequence of breakthroughs, beginning on June 2nd, 1875, when he and Thomas Watson discovered that a wave-like current could reproduce sound vibrations. The two filed for a patent application on February 14th, 1876, and the *first clear speech transmission* was documented on March 10th that year, when Bell famously called to Watson.
+The invention of the telephone was the culmination of decades of research by multiple inventors. *Alexander Bell* is most widely credited with its creation, securing a patent for the product in 1876 with a product that demonstrated a practical, repeatable system for commercial use. According to Volume I of *Telephone Communication Systems* Bell’s own progress came through a rapid sequence of breakthroughs, beginning on June 2nd, 1875, when he and Thomas Watson discovered that a wave-like current could reproduce sound vibrations. The two filed for a patent application on February 14th, 1876, and the first clear speech transmission was documented on March 10th that year, when Bell famously called to Watson (Garrett, 1970).
  
   The telephone quickly evolved from a scientific novelty into essential infrastructure: the Bell Telephone Company was founded in 1877, with about 1,300 devices in use within months; usage expanded rapidly to tens of thousands of telephones by 1880 and over 100,000 soon after; and by 1885, the creation of AT&T marked the development of long-distance networks. 
   
@@ -87,4 +87,5 @@ The deeper limitation: AI flattened the historiographic debates. When I asked it
 
 ## Bibliography
 
-Baker, Nicholson. "The Charms of Wikipedia." *New York Review of Books*, March 20, 2008.
+J.E. Garrett. "Telephone Communication Systems: Volume 1." *Graduate Engineering and Information Systems Education*, 1970.
+
